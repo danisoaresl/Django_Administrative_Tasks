@@ -1,2 +1,2 @@
-# Django_Administrative_Tasks
-WoMaKersCode
+# semana08
+Exercício semana08
